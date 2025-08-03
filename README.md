@@ -83,7 +83,7 @@ Thanks to **Edunet Foundation** **IBM SkillsBuild**, **AICTE**, and the power of
 ## 🧠 Author
 
 **Ansh Kataria**  
-Connect on [LinkedIn]([https://www.linkedin.com/in/anshkataria8675/]) • [GitHub](https://github.com/itzansh019/)
+Connect on [LinkedIn](https://www.linkedin.com/in/anshkataria8675/) • [GitHub](https://github.com/itzansh019/)
 
 ---
 
